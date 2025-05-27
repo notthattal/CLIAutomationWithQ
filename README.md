@@ -291,7 +291,7 @@ pytest --cov=. --cov-report=html
 ```
 - *Note*: Make sure you run the above command from the root of the project folder
 
-### AI Usage
+## AI Usage
 
 - AI was used as a source for documentation as well as to help with the creation of the test suite and for understanding how to implement error handling
 
